@@ -1,3 +1,8 @@
+/*
+Made by: Mridul Krishn Rawat,
+Uname: Chiku,
+timestamp: 16/04/19
+*/
 #include<stdio.h> 
 #include<stdlib.h>
 #define in scanf
